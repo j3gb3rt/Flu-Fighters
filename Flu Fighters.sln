@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flu Fighters", "Flu Fighters\Flu Fighters.csproj", "{D750F508-E139-4831-9CBD-4F7DEB987CD4}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://frsmk3.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Flu\u0020Fighters\\Flu\u0020Fighters.csproj
+		SccProjectName1 = Flu\u0020Fighters
+		SccLocalPath1 = Flu\u0020Fighters
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D750F508-E139-4831-9CBD-4F7DEB987CD4}.Debug|x86.ActiveCfg = Debug|x86
+		{D750F508-E139-4831-9CBD-4F7DEB987CD4}.Debug|x86.Build.0 = Debug|x86
+		{D750F508-E139-4831-9CBD-4F7DEB987CD4}.Release|x86.ActiveCfg = Release|x86
+		{D750F508-E139-4831-9CBD-4F7DEB987CD4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
